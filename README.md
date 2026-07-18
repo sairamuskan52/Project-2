@@ -41,7 +41,7 @@ This project allows users to:
 ```
 Basic-Encryption-Decryption/
 │
-├── encryption.py      # Main Python program
+├── encryption code      # Main Python program
 ├── README.md          # Project documentation
 └── LICENSE            # (Optional)
 ```
