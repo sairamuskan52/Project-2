@@ -41,7 +41,7 @@ This project allows users to:
 ```
 Basic-Encryption-Decryption/
 │
-├── encryption code      # Main Python program
+├── encryption.py      # Main Python program
 ├── README.md          # Project documentation
 └── LICENSE            # (Optional)
 ```
@@ -65,7 +65,7 @@ cd Basic-Encryption-Decryption
 ### 3. Run the program
 
 ```bash
-python encryption code
+python encryption.py
 ```
 
 ---
