@@ -65,7 +65,7 @@ cd Basic-Encryption-Decryption
 ### 3. Run the program
 
 ```bash
-python encryption.py
+python encryption code
 ```
 
 ---
